@@ -1,0 +1,18 @@
+{
+  "name": "EVALITE",
+  "symbol": "EVALITE",
+  "description": "This is our custom token deployed on the Solana blockchain to create a wellness business empire.",
+  "image": "https://github.com/arsenijkozlov/evalite/blob/main/Logo_Sign.png"
+  "attributes": [
+    { "trait_type": "Purpose", "value": "Utility" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/arsenijkozlov/evalite/blob/main/Logo_Sign.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
